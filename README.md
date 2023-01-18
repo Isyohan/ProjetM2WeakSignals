@@ -3,4 +3,4 @@ BLM_Notebook is a notebook using Black Lives Matter dataset (minnesota.csv) wher
 
 SG_Notebook is a notebook using a Squid Game dataset (tweets_v8.csv)
 
-BTC_Notebook is about the Bitcoin price along with a data set with a dataset of tweet about bitcoin (Bitcoin_tweets.csv & Bitcoin_tweets_clean.csv)
+BTC_Notebook is about the Bitcoin price along with a dataset of tweet about bitcoin (Bitcoin_tweets.csv & Bitcoin_tweets_clean.csv)
